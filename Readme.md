@@ -1,6 +1,6 @@
 ## HI, I am Lucas🪐
 
-- 🔭 I really like programming, astronomy and basketball
+- 🔭 I like programming, astronomy and basketball
 - 🍁 Front-end
 <div>
   <a href="https://github.com/davilucasx">
