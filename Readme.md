@@ -2,11 +2,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davilucasx&show_icons=true&count_private=true&hide_border=true&title_color=9E4C98&icon_color=9E4C98&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Davi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilucasx&layout=compact&hide_border=true&title_color=9E4C98&text_color=9E4C98&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilucasx&layout=compact&hide_border=true&title_color=9E4C98&text_color=AF28AC&bg_color=0d1117" />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davilucasx&bg_color=090207&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ### Studying in this moment:
 <div astyle="display: inline_block">
