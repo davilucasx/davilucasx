@@ -98,15 +98,20 @@ Me chamo Lucas Davi, tenho 19 anos e sou de Fortaleza-CE. Concluí o ensino méd
 
 ### 📊 Estatísticas
 
-<div align="center">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
-    height="200"
+    height="200" 
+    style="margin-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=davilucasx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
   <img 
+    align="left" 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilucasx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+</p>
+
