@@ -2,14 +2,14 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Lucas Davi, tenho 19 anos e sou de Fortaleza-CE. Concluí o ensino médio no IFCE, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho interesse na área de desenvolvimento web e estou procurando me capacitar e melhorar meus conhecimentos. 
+Me chamo Lucas Davi, tenho 20 anos. Concluí o ensino médio no IFCE, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho interesse na área de desenvolvimento web e estou procurando me capacitar e melhorar meus conhecimentos. 
 
 <p align="left">
-    <a href="https://instagram.com/lucas.sxzz" target="_blank">
+    <a href="https://www.linkedin.com/in/lucas-davi-81a63523b/" target="_blank">
         <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+            alt="linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
     <a href="mailto:lucasdavi.barros22@gmail.com">
