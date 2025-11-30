@@ -1,29 +1,16 @@
-# 👨🏻‍💻 Lucas Davi
+# 🌱 Lucas Davi
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvendo bugs`**
 
-Me chamo Lucas Davi, tenho 20 anos. Concluí o ensino médio no IFCE, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho interesse na área de desenvolvimento web e estou procurando me capacitar e melhorar meus conhecimentos. 
+Tenho muito interesse na área de tecnologia e estou me desenvolvendo nela. Curso Ciência da Computação e estou em busca de uma área para me especializar.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/lucas-davi-81a63523b/" target="_blank">
-        <img 
-            alt="linkedin" 
-            title="Linkedin" 
-            src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" 
-        />
-    </a>
-    <a href="mailto:lucasdavi.barros22@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Me mande um e-mail" 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-        />
-    </a>
-</p>
+This is my e-mail: **lucasdavi.barros22@gmail.com**
+
+This is my linkedin: **https://www.linkedin.com/in/lucas-davi-81a63523b/**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨🏻‍💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -93,26 +80,3 @@ Me chamo Lucas Davi, tenho 20 anos. Concluí o ensino médio no IFCE, com o curs
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=davilucasx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilucasx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
