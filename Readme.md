@@ -1,6 +1,6 @@
 # 🌱 Lucas Davi
 
-**`Desenvolvendo bugs`**
+**`Desenvolvendo`**
 
 Tenho muito interesse na área de tecnologia e estou me desenvolvendo nela. Curso Ciência da Computação e estou em busca de uma área para me especializar.
 
