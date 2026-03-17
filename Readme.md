@@ -1,17 +1,13 @@
-# 🌱 Lucas Davi
+#  👨🏻‍💻 Lucas Davi
 
-**`Desenvolvendo`**
+Estudante de programação em constante evolução. Atualmente aprendendo e desenvolvendo projetos para fortalecer minhas habilidades. Tenho grande interesse em front-end, especialmente na construção de interfaces visuais e na aplicação prática dessas ideias.
 
-Tenho muito interesse na área de tecnologia e estou me desenvolvendo nela. Curso Ciência da Computação e estou em busca de uma área para me especializar.
-
-This is my e-mail: **lucasdavi.barros22@gmail.com**
-
-This is my linkedin: **https://www.linkedin.com/in/lucas-davi-81a63523b/**
+Curso Ciência da Computação na UECE e sou bolsista no LARCES (Laboratório de Redes e Segurança), onde estudo e desenvolvo projetos em IoT. Pretendo desenvolver ainda mais meus conhecimentos ao longo da graduação.
 
 ---
 
-### 👨🏻‍💻 Linguagens e Tecnologias
-
+### Linguagens e Tecnologias
+          
 <img 
     align="left" 
     alt="HTML"
@@ -77,6 +73,9 @@ This is my linkedin: **https://www.linkedin.com/in/lucas-davi-81a63523b/**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
+<br/>
+<br/>
+## 📫 Contact
 
-<br/>
-<br/>
+- 📧 Email: [lucasdavi.barros22@gmail.com](mailto:lucasdavi.barros22@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/lucas-davi-81a63523b](https://www.linkedin.com/in/lucas-davi-81a63523b/)
