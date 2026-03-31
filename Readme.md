@@ -1,5 +1,3 @@
-#  👨🏻‍💻 Lucas Davi
-
 Olá, Me chamo Lucas Davi, terminei o técnico integrado em informática no IFCE e estou cursando Ciência da Computação na UECE. Tenho interesse em estudar para me tornar um programador fullstack, atuando no back e no front, onde tenho mais conhecimento.Atualemte sou bolsista no LARCES (Laboratório de Redes e Segurança), onde estudo e desenvolvo projetos em IoT. Pretendo desenvolver ainda mais meus conhecimentos ao longo da graduação.
 
 ---
