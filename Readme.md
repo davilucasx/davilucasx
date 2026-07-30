@@ -7,7 +7,7 @@ Terminei o técnico integrado em informática no IFCE e estou cursando Ciência 
 ---
 ## Linguagens e Tecnologias
           
-[![skills](https://skillicons.dev/icons?i=cpp,java,js,arduino,postgres,nodejs,react,python)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=java,js,arduino,postgres,nodejs,react,python)](https://skillicons.dev)
 <br/>
 ## Contact
 
